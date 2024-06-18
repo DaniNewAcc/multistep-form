@@ -20,8 +20,8 @@ export default {
         'white': "hsl(var(--clr-neutral-5) / <alpha-value>)",
       },
       backgroundImage: {
-        'sidebar-mobile': "url('./images/bg-sidebar-mobile.svg')",
-        'sidebar-desktop': "url('./images/bg-sidebar-desktop.svg')"
+        'sidebar-mobile': "url('/images/bg-sidebar-mobile.svg')",
+        'sidebar-desktop': "url('/images/bg-sidebar-desktop.svg')"
       }
     },
   },
